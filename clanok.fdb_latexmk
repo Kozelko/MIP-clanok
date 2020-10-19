@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex clanok"] 1603141165 "clanok.aux" "clanok.bbl" "clanok" 1603141196
+["bibtex clanok"] 1603142556 "clanok.aux" "clanok.bbl" "clanok" 1603142561
   "C:/Users/kozel/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291868336 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "clanok.aux" 1603141193 883 53f9a85f32a184f65eed19384f011104 "pdflatex"
+  "clanok.aux" 1603142561 883 53f9a85f32a184f65eed19384f011104 "pdflatex"
   "literatura.bib" 1603139121 1615 60f76d3dc7e0876919e06260dabac6ce ""
   (generated)
   "clanok.bbl"
   "clanok.blg"
-["pdflatex"] 1603141189 "c:/Users/kozel/Desktop/MIP/Clanok/clanok.tex" "c:/Users/kozel/Desktop/MIP/Clanok/clanok.pdf" "clanok" 1603141196
+["pdflatex"] 1603142557 "c:/Users/kozel/Desktop/MIP/Clanok/clanok.tex" "c:/Users/kozel/Desktop/MIP/Clanok/clanok.pdf" "clanok" 1603142561
   "C:/Users/kozel/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0600.pk" 1603140593 7284 e12f7573aee7936df8076197d4716ec0 ""
   "C:/Users/kozel/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1603140636 14064 2ef04030cabfe6ec82462e634220e1d4 ""
   "C:/Users/kozel/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csbx9.pk" 1603140620 15420 38b7c037560d03f826ba431c48c0e7de ""
@@ -90,16 +90,16 @@
   "C:/Users/kozel/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576437552 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/kozel/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575574882 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "C:/Users/kozel/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/kozel/Desktop/MIP/Clanok/clanok.aux" 1603141193 883 53f9a85f32a184f65eed19384f011104 ""
+  "c:/Users/kozel/Desktop/MIP/Clanok/clanok.aux" 1603142561 883 53f9a85f32a184f65eed19384f011104 ""
   "c:/Users/kozel/Desktop/MIP/Clanok/clanok.tex" 1603141187 1268 0d6816740706779f0c25a897b6bc0e62 ""
-  "clanok.aux" 1603141193 883 53f9a85f32a184f65eed19384f011104 "pdflatex"
-  "clanok.bbl" 1603141165 52 0eba253fc001332e731e8aba3f23127b "bibtex clanok"
-  "clanok.out" 1603141193 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "clanok.aux" 1603142561 883 53f9a85f32a184f65eed19384f011104 "pdflatex"
+  "clanok.bbl" 1603142557 52 0eba253fc001332e731e8aba3f23127b "bibtex clanok"
+  "clanok.out" 1603142560 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "clanok.tex" 1603141187 1268 0d6816740706779f0c25a897b6bc0e62 ""
   (generated)
-  "clanok.log"
-  "c:/Users/kozel/Desktop/MIP/Clanok/clanok.log"
-  "clanok.aux"
   "c:/Users/kozel/Desktop/MIP/Clanok/clanok.pdf"
+  "clanok.log"
   "clanok.out"
+  "c:/Users/kozel/Desktop/MIP/Clanok/clanok.log"
   "clanok.pdf"
+  "clanok.aux"
